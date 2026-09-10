@@ -1,0 +1,21 @@
+{
+	"core": null,
+	"phpVersion": "8.2",
+	"themes": [
+		"../vendor/bijoux",
+		"./themes/bijoux-child"
+	],
+	"plugins": [
+		"../vendor/woocommerce",
+		"../vendor/elementor",
+		"../vendor/pro-elements",
+		"../vendor/vamtam-elementor-integration",
+		"../vendor/vamtam-importers-e",
+		"../vendor/contact-form-7"
+	],
+	"config": {
+		"WP_DEBUG": true,
+		"WP_DEBUG_LOG": true
+	},
+	"mappings": {}
+}
